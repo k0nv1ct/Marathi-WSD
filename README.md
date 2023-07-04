@@ -1,6 +1,6 @@
 # Marathi Word Sense Disambiguation using Elmo+CNN
 
-This repository contains a project for Marathi Word Sense Disambiguation (WSD) using the Elmo+CNN model. The goal of this project is to disambiguate words in a Marathi sentence by accurately part-of-speech (POS) tagging each word. The developed Elmo+CNN model achieves an accuracy of 86%, making it the world's first model for Marathi WSD and aiding millions in better understanding the Marathi language.
+This repository contains a project for Marathi Word Sense Disambiguation. The goal of this project is to accurately disambiguate words in Marathi sentences by correctly assigning Part-of-Speech (POS) tags to each word. The project introduces the world's first Elmo+CNN model for POS tagging in Marathi with an accuracy of 86 percent. Additionally, a Marathi WordNet and synsets are created to assist in determining the correct meaning of words in sentences, thereby enhancing language understanding for millions of users.
 
 ## Dataset
 The project utilizes a Marathi language dataset specifically curated for Word Sense Disambiguation. The dataset consists of annotated Marathi sentences where each word is labeled with its corresponding part-of-speech tag.
